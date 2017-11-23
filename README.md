@@ -1,5 +1,5 @@
 # docker-https-redirector
-HTTPS redirector, based on [SergeyZh/docker-https-redirector|https://github.com/SergeyZh/docker-https-redirector]
+HTTPS redirector, based on [SergeyZh/docker-https-redirector](https://github.com/SergeyZh/docker-https-redirector)
 
 There are enviromental variables to set:
 * SERVER_NAME (default is '_')
